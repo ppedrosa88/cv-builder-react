@@ -13,7 +13,7 @@ Make sure you have the following installed before starting:
 
 1.  Clone the repository:
 
-    `git clone https://github.com/your-username/cv-builder-react.git
+    `git clone https://github.com/ppedrosa88/cv-builder-react.git
 cd cv-builder-react`
 
 2.  Install the dependencies:
